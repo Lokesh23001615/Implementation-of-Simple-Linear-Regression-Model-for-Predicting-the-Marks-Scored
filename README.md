@@ -8,14 +8,21 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Start the program.
-2. To implement the linear regression using the standard libraries in the python.
-3. Use slicing function() for the x,y values.
-4. Using sklearn library import training , testing and linear regression modules.
-5. Predict the value for the y.
-6. Using matplotlib library plot the graphs.
-7. Use xlabel for hours and ylabel for scores.
-8. End the porgram.
+Step 1. Start the program.
+
+Step 2. To implement the linear regression using the standard libraries in the python.
+
+Step 3. Use slicing function() for the x,y values.
+
+Step 4. Using sklearn library import training , testing and linear regression modules.
+
+Step 5. Predict the value for the y.
+
+Step 6. Using matplotlib library plot the graphs.
+
+Step 7. Use xlabel for hours and ylabel for scores.
+
+Step 8. End the porgram.
 ## Program:
 ```
 /*
